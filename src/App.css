@@ -1,0 +1,9 @@
+body{
+  font-family: "Philosopher", sans-serif;
+}
+
+.image-fit {
+  width: 100%;
+  height: 100%; /* Set your desired height */
+  object-fit: cover; /* Options: fill, contain, cover, none, scale-down */
+}
